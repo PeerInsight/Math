@@ -1,0 +1,17 @@
+{
+  "name": "数学教科书",
+  "desc": "SAT数学教科书",
+  "keywords": ["数学", "SAT"],
+  "cover": "cover.jpg",
+  "tags": ["SAT"],
+  "lang": "",
+  "chapters": [
+    {
+      "name": "前言",
+      "content": "Chapter1.md",
+      "sections": [
+        {"name":"在学习之前"}
+      ]
+    }
+  ]
+}
