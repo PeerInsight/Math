@@ -8,84 +8,84 @@
   "chapters": [
     {
       "name": "前言",
-      "content": "Chapter0.md",
+      "content": "Chapter0/Chapter0.md",
       "sections": [
         {"name":"在学习之前"}
       ]
     },
     {
       "name": "Checkpoint 1",
-      "content": "Chapter1.md",
+      "content": "Chapter1/Chapter1.md",
       "sections": [
         {"name":"不等式"}
       ]
     },
     {
       "name": "Checkpoint 2",
-      "content": "Chapter2.md",
+      "content": "Chapter2/Chapter2.md",
       "sections": [
         {"name":"单位换算"}
       ]
     },
     {
       "name": "Checkpoint 3",
-      "content": "Chapter3.md",
+      "content": "Chapter3/Chapter3.md",
       "sections": [
         {"name":"二次函数"}
       ]
     },
     {
       "name": "Checkpoint 4",
-      "content": "Chapter4.md",
+      "content": "Chapter4/Chapter4.md",
       "sections": [
         {"name":"根式"}
       ]
     },
     {
       "name": "Checkpoint 5",
-      "content": "Chapter5.md",
+      "content": "Chapter5/Chapter5.md",
       "sections": [
         {"name":"函数应用题"}
       ]
     },
     {
       "name": "Checkpoint 6",
-      "content": "Chapter6.md",
+      "content": "Chapter6/Chapter6.md",
       "sections": [
         {"name":"解方程"}
       ]
     },
     {
       "name": "Checkpoint 7",
-      "content": "Chapter7.md",
+      "content": "Chapter7/Chapter7.md",
       "sections": [
         {"name":"三角函数"}
       ]
     },
     {
       "name": "Checkpoint 8",
-      "content": "Chapter8.md",
+      "content": "Chapter8/Chapter8.md",
       "sections": [
         {"name":"填空题"}
       ]
     },
     {
       "name": "Checkpoint 9",
-      "content": "Chapter9.md",
+      "content": "Chapter9/Chapter9.md",
       "sections": [
         {"name":"统计图示和意义"}
       ]
     },
     {
       "name": "Checkpoint 10",
-      "content": "Chapter10.md",
+      "content": "Chapter10/Chapter10.md",
       "sections": [
         {"name":"指数函数"}
       ]
     },
     {
       "name": "Checkpoint 11",
-      "content": "Chapter11.md",
+      "content": "Chapter11/Chapter11.md",
       "sections": [
         {"name":"置信区间"}
       ]
